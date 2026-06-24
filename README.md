@@ -1,11 +1,11 @@
-# Re_Smaithery
+# Re_Smithery
 
 A minimal Flask web app starter — Python backend with a simple HTML/CSS/JS frontend.
 
 ## Project structure
 
 ```
-Re_Smaithery/
+Re_Smithery/
 ├── app.py              # Flask application and routes
 ├── requirements.txt    # Python dependencies
 ├── templates/
